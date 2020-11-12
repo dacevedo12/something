@@ -1,4 +1,5 @@
 # Something
+
 Prove your immunity and get authorized to restricted places using your mobile device.
 Contactless, quick and effective
 
@@ -6,6 +7,11 @@ Contactless, quick and effective
 
 - Carry your immunization record everywhere and at all times
 - Get a shareable QR code that can be verified by other people with the app
+- Nonprofit open source project
+
+## Mission
+
+Provide a mobile app that allows people to show their COVID-19 vaccine credentials so they can access events and their favorite places, which allows for a safe and quick entry process of people to different social spaces.
 
 ## Rationale
 
